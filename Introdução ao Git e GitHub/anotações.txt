@@ -1,3 +1,9 @@
+sha1 - gera um código diferente para cada texto
+objetos internos: blobs(guarda o tamanho e conteúdo de um arquivo),trees e commits 
+flex: mostra arquivos ocults (-a)
+markdown (linguagem como uma forma humanizada de escrever html)
+git init: comando único usado durante a configuraçõ inicial de um novo repositório
+repositório (diretório onde os arquivos do projeto ficam armazenados)
 para adicionar efetivamente uma pasta criada    
           git add .
           git commit -m "texto comentario"
