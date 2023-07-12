@@ -1,0 +1,4 @@
+para adicionar efetivamente uma pasta criada    
+          git add .
+          git commit -m "texto comentario"
+          git push origin main
